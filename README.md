@@ -1,4 +1,4 @@
-### Olá, meu nome é Nicollas Guimarães!😎✌
+### Olá, meu nome é Nicollas Guimarães!
 
 - 🌱 Atualmente estou aprendendo Xamarin e .Net Maui
 - 📫 Meu E-mail: nicollasguima12@gmail.com
