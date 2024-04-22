@@ -1,6 +1,6 @@
 ### Olá, meu nome é Nicollas Guimarães! 😀
 
-- 🌱 Atualmente estou aprendendo Xamarin | Maui
+- 🌱 Atualmente estou aprendendo Xamarin | React Native
 
 ## 📫 Conecte-se comigo:
 
