@@ -1,6 +1,7 @@
 ### Olá, meu nome é Nicollas Guimarães! 😀
 
-- 🌱 Atualmente estou aprendendo Xamarin | React Native
+- 🌱 Minha principal Stack é C# e .NET
+- 🌱 Atualmente estou aprendendo React Native
 
 ## 📫 Conecte-se comigo:
 
@@ -21,8 +22,7 @@
 ## Ferramentas e Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-9D03D3?style=for-the-badge&logo=csharp&logoColor=white">
-  <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-   <img align="center" alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white">  
+  <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">  
   <img align="center"  alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-FD571C?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-3498DB?&style=for-the-badge&logo=css3&logoColor=white">   
