@@ -1,7 +1,7 @@
 ### Olá, meu nome é Nicollas Guimarães! 😀
 
 - 🌱 Minha principal Stack é C# e .NET
-- 🌱 Atualmente estou aprendendo React Native
+- ✍🏻 Atualmente estou aprendendo React Native
 
 ## 📫 Conecte-se comigo:
 
