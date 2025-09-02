@@ -35,7 +35,7 @@
   <img align="center"  alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-FD571C?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-3498DB?&style=for-the-badge&logo=css3&logoColor=white">   
-<!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/0Wqf2HjtDNZevuyO8B/giphy.gif"> -->
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/0Wqf2HjtDNZevuyO8B/giphy.gif">
 </div>
 
 
